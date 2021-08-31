@@ -1,0 +1,26 @@
+
+
+  operators of kotlin 
+
+
+  
+    fun main (args:Array <String>){
+
+
+    var one = 2 
+    var two = 5 
+
+    var sum = one + two
+    var minus = one - two 
+    var mult = one * two 
+    var divide = one / two 
+    var mod = one % two 
+
+
+    println(sum)
+    println(minus)
+    println(mult)
+    println(divide)
+    println(mod)
+
+   }
